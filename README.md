@@ -1,5 +1,6 @@
-FactionsUUID
-====================
+<center>
+  <img src="https://imgur.com/3PCF7tz">
+</center>
 
 [![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/FfAz3eE)
 
