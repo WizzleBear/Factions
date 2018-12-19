@@ -1,7 +1,7 @@
 <center>
   <img src="https://i.imgur.com/3PCF7tz.png">
   <br/>
-</center
+</center>
 <center>
   <a href="https://discord.gg/FfAz3eE"><img src="https://imgur.com/MFRRBn4.png"></a>
 </center>
