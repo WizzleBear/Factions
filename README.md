@@ -1,5 +1,5 @@
 <center>
-  <img src="https://imgur.com/3PCF7tz">
+  <img src="https://i.imgur.com/3PCF7tz.png">
 </center>
 
 [![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/FfAz3eE)
