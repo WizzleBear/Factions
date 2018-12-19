@@ -3,7 +3,7 @@
   <br/>
 </center>
 <center>
-  <a href="https://discord.gg/FfAz3eE" style="text-align: center:"><img src="https://imgur.com/MFRRBn4.png"></a>
+  <a href="https://discord.gg/FfAz3eE" style="text-align: center"><img src="https://imgur.com/MFRRBn4.png"></a>
 </center>
 <br/>
 <br/>
