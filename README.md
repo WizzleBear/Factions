@@ -1,8 +1,10 @@
 <center>
   <img src="https://i.imgur.com/3PCF7tz.png">
+  <br/>
+  <a href="https://discord.gg/FfAz3eE">
+    <img src="https://imgur.com/MFRRBn4.png">
+  </a>
 </center>
-
-[![Discord](https://imgur.com/MFRRBn4.png)](https://discord.gg/FfAz3eE)
 
 <rant>
 I'd appreciate it if you could pay for the (http://www.spigotmc.org/resources/factionsuuid.1035/) if your server makes money. If you only run your server for your kids or some friends and don't make any money, then I don't want to stop you from doing so by forcing you to buy a $15 plugin. If that's the case, then just send me a message and we can work something out.
